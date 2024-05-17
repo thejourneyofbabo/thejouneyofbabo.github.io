@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "categories": "multitext",
+    "date": "date",
+    "sidebar": "text",
+    "link": "multitext",
+    "connected": "multitext"
+  }
+}
