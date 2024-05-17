@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Basic Blog template.md",
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Basic Blog template.md",
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Basic Blog template.md",
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Basic Blog template.md"
+                "file": "_posts/2024-05-17-Github Blog Tester.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "c507a29ed08f1fa6",
   "lastOpenFiles": [
+    "Templates/Basic Blog template.md",
     "_site/assets/js/lunr/lunr-en.js",
     "_site/assets/js/lunr/lunr-store.js",
     "_site/assets/js/lunr/lunr.min.js",
@@ -176,10 +177,8 @@
     "_site/assets/css/main.css",
     "_site/assets/js/main.min.js.map",
     "_site/assets/images/babo.png",
-    "_site/assets/js/main.min.js",
     "_site/files/jslogo.jpg",
     "_posts/2024-05-17-Github Blog Tester.md",
-    "Templates/Basic Blog template.md",
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-03-24-first.md",
     "README.md",
