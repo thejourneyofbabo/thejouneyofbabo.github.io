@@ -20,6 +20,9 @@ connected:
 {: .notice--info} 
 / info / warning / danger / success
 
+<aside> 💡
+Hello there
+</aside>
 <div class="notice--success">
 <h4>공지사항입니다.</h4>
 	<ul>
