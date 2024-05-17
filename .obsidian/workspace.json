@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c507a29ed08f1fa6",
+  "active": "d4fdfd2ce62ab41d",
   "lastOpenFiles": [
     "Templates/Basic Blog template.md",
     "_site/assets/js/lunr/lunr-en.js",
