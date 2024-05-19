@@ -52,6 +52,6 @@ Test - gh-pages branch로 업데이트
 Align 기능
 {: .align-right }
 
-[First blog](2024-03-24-first)
+[First blog](../Engineering/BLDC-Control/)
 
 
