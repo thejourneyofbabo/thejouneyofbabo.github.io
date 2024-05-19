@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Github Blog Tester
-categories: 
+categories: []
 tags:
   - blog
   - setup
