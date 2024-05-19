@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "alwaysUpdateLinks": true
 }

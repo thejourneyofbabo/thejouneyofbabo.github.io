@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-14-BLDC Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-14-BLDC Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-14-BLDC Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md"
+                "file": "_posts/2024-05-14-BLDC Control.md"
               }
             }
           },
@@ -163,8 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4fdfd2ce62ab41d",
+  "active": "c507a29ed08f1fa6",
   "lastOpenFiles": [
+    "_posts/2024-05-13-United_Automotive_Software.md",
+    "_posts/2024-05-17-Github Blog Tester.md",
+    "_posts/2024-04-22-The_Journey_of_BABO.md",
+    "_posts/2024-03-24-first.md",
+    "_posts/2024-05-08-Obsidian with Git.md",
+    "_posts/2024-05-11-Github-blog-local-website.md",
+    "_posts/Personal",
+    "_posts/Engineering",
     "_site/Github-Blog-Tester/index.html",
     "_site/Github-Blog-Tester",
     "_site/2024-05-17-Github-Blog-Tester/index.html",
@@ -173,19 +181,11 @@
     "_site/blog/Github-Blog-Tester",
     "_site/blog/post/Github-Blog-Tester/index.html",
     "_site/blog/post/Github-Blog-Tester",
-    "_site/blog/post",
-    "_site/blog/post /Github-Blog-Tester/index.html",
-    "_site/blog/post /Github-Blog-Tester",
     "_posts/2024-05-14-BLDC Control.md",
-    "_posts/2024-05-13-United_Automotive_Software.md",
-    "_posts/2024-05-17-Github Blog Tester.md",
-    "_posts/2024-03-24-first.md",
     "Templates/Basic Blog template.md",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",
     "README.md",
-    "_posts/2024-05-11-Github-blog-local-website.md",
-    "_posts/2024-05-08-Obsidian with Git.md",
     "_site/_pages/search.md",
     "_pages/search.md",
     "_posts/2024-05-17-Blog Edge case tester.md",
@@ -193,7 +193,6 @@
     "files/jslogo.jpg",
     "_site/_pages/404.md",
     "_pages/404.md",
-    "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_site/_pages/category-archive.md",
     "_pages/category-archive.md",
     "screenshot.png",
