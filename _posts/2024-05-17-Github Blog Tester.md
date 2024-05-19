@@ -50,5 +50,5 @@ Sidebar 기능 수정하기.
 Test - gh-pages branch로 업데이트
 
 Align 기능
-{: .align-}
+{: .align-center }
 
