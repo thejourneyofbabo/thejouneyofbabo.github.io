@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc7c67a647693e20",
+  "active": "15f9e4b82a29ee8a",
   "lastOpenFiles": [
     "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-14-BLDC Control.md",
