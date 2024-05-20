@@ -12,6 +12,8 @@ aliases:
 connected:
   - "[[2024-05-20-Microprocessor-Basics|마이크로프로세서-과목정리]]"
 ---
+```table-of-contents
+```
 ## Microcontroller
-**마이크로 컨트롤러 종류**
+### **마이크로 컨트롤러 종류**
 ![[microcontrollers.png]]
