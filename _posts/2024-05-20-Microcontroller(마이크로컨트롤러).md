@@ -15,4 +15,5 @@ connected:
 ### **마이크로 컨트롤러 종류**
 
 ![thejourneyofbabo]({{site.url}}/files/microcontrollers.png)
-]]![[files/microcontrollers.png]]
+![](../files/microcontrollers.png)
+
