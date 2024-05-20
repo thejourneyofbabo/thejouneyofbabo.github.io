@@ -2,7 +2,7 @@
 layout: single
 title: Github blog local website check
 categories:
-  - coding
+  - Tips
 ---
 ## 깃허브 블로그 세팅하기 - 로컬 웹페이지 생성
 
