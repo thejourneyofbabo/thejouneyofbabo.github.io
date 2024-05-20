@@ -4,9 +4,7 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Years"
+  - title: "Year"
     url: /year-archive/
   - title: "Search"
     url: /search/
