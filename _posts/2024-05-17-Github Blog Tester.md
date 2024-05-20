@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Github Blog Tester
-categories: 
+categories: []
 tags:
   - blog
   - setup
@@ -20,6 +20,9 @@ connected:
 {: .notice--info} 
 / info / warning / danger / success
 
+<aside> 💡
+Hello there
+</aside>
 <div class="notice--success">
 <h4>공지사항입니다.</h4>
 	<ul>
@@ -45,4 +48,10 @@ Using Obsidian for the Github Blog.
 Sidebar 기능 수정하기. 
 
 Test - gh-pages branch로 업데이트
+
+Align 기능
+{: .align-right }
+
+[First blog](../Engineering/BLDC-Control/)
+
 

@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +167,16 @@
   "lastOpenFiles": [
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-17-Github Blog Tester.md",
+    "_site/Github-Blog-Tester/index.html",
+    "_site/Github-Blog-Tester",
+    "_site/[blog | blog]/Github-Blog-Tester/index.html",
+    "_site/[blog | blog]/Github-Blog-Tester",
+    "_site/[blog | blog]",
+    "_site/[blog]/Github-Blog-Tester/index.html",
+    "_site/[blog]/Github-Blog-Tester",
+    "_site/[blog]",
+    "_site/blog-blog-/Github-Blog-Tester/index.html",
+    "_site/blog-blog-/Github-Blog-Tester",
     "_posts/2024-05-14-BLDC Control.md",
     "_site/Github-Blog-Tester/index.html",
     "_site/Github-Blog-Tester",
