@@ -1,8 +1,7 @@
 ---
 layout: single
 title: Microcontroller(마이크로컨트롤러)
-categories:
-  - Embedded
+categories: []
 tags:
   - embedded
   - microprocessor
@@ -16,4 +15,4 @@ connected:
 ### **마이크로 컨트롤러 종류**
 
 ![thejourneyofbabo]({{site.url}}/files/microcontrollers.png)
-![[microcontrollers.png]]
+]]![[files/microcontrollers.png]]
