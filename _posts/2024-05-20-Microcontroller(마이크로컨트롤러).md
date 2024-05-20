@@ -14,7 +14,5 @@ connected:
 ---
 ## Microcontroller
 ### **마이크로 컨트롤러 종류**
+![](../../files/microcontrollers.png)
 
-![thejourneyofbabo](../microcontrollers.png)
-
-![[microcontrollers.png]]
