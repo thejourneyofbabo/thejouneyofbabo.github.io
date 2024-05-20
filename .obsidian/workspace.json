@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-20-Microprocessor-Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-20-Microprocessor-Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "file": "_posts/2024-05-20-Microprocessor-Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-17-Github Blog Tester.md"
+                "file": "_posts/2024-05-20-Microprocessor-Basics.md"
               }
             }
           },
@@ -163,36 +164,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f9e4b82a29ee8a",
+  "active": "bc7c67a647693e20",
   "lastOpenFiles": [
-    "_posts/2024-04-22-The_Journey_of_BABO.md",
-    "_posts/2024-05-17-Github Blog Tester.md",
-    "_site/Github-Blog-Tester/index.html",
-    "_site/Github-Blog-Tester",
-    "_site/[blog | blog]/Github-Blog-Tester/index.html",
-    "_site/[blog | blog]/Github-Blog-Tester",
-    "_site/[blog | blog]",
-    "_site/[blog]/Github-Blog-Tester/index.html",
-    "_site/[blog]/Github-Blog-Tester",
-    "_site/[blog]",
-    "_site/blog-blog-/Github-Blog-Tester/index.html",
-    "_site/blog-blog-/Github-Blog-Tester",
+    "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-14-BLDC Control.md",
+    "_posts/2024-05-17-Github Blog Tester.md",
+    "_posts/2024-05-20-Microprocessor-Basics.md",
+    "_site/embedded/Microprocessor-Basics/index.html",
+    "_site/embedded/Microprocessor-Basics",
+    "_site/embedded",
+    "_site/Microprocessor-Basics/index.html",
+    "_site/Microprocessor-Basics",
+    "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_site/Github-Blog-Tester/index.html",
     "_site/Github-Blog-Tester",
     "_site/[blog | blog]/Github-Blog-Tester/index.html",
     "_site/[blog | blog]/Github-Blog-Tester",
     "_site/[blog | blog]",
-    "_site/[blog]/Github-Blog-Tester/index.html",
-    "_site/[blog]/Github-Blog-Tester",
-    "_site/[blog]",
-    "_site/blog-blog-/Github-Blog-Tester/index.html",
-    "_site/blog-blog-/Github-Blog-Tester",
     "_posts/2024-03-24-first.md",
     "_posts/2024-03-24-first|first.md",
     "_posts/[[2024-03-24-first|first.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
-    "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-08-Obsidian with Git.md",
     "Templates/Basic Blog template.md",
     "_site/assets/images/babo.png",

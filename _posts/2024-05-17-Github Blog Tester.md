@@ -18,6 +18,7 @@ connected:
 
 **[Notice]** [This is the Brand new Blog](https://thejourneyofbabo.github.io/)
 {: .notice--info} 
+
 / info / warning / danger / success
 
 <aside> 💡
