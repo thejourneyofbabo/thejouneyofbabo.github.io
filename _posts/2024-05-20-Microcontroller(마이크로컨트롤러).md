@@ -9,6 +9,9 @@ tags:
 toc: true
 author_profile: true
 aliases: 
-connected: []
+connected:
+  - "[[2024-05-20-Microprocessor-Basics|마이크로프로세서-과목정리]]"
 ---
-## Micro
+## Microcontroller
+**마이크로 컨트롤러 종류**
+![[microcontrollers.png]]

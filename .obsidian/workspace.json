@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -166,12 +166,18 @@
   },
   "active": "bc7c67a647693e20",
   "lastOpenFiles": [
+    "_posts/2024-05-20-Microprocessor-Basics.md",
+    "files/microcontrollers.png",
+    "_site/files/microcontrollers.png",
+    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+    "_site/files/Screenshot 2024-05-20 at 5.51.50 PM.png",
+    "files/Screenshot 2024-05-20 at 5.50.18 PM.png",
+    "_site/files/Screenshot 2024-05-20 at 5.50.18 PM.png",
+    "_site/Screenshot 2024-05-20 at 5.50.18 PM.png",
     "_site/embedded/Microcontroller(마이크로컨트롤러)/index.html",
     "_site/embedded/Microcontroller(마이크로컨트롤러)",
     "_site/Microcontroller(마이크로컨트롤러)/index.html",
     "_site/Microcontroller(마이크로컨트롤러)",
-    "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_site/embedded/Microprocessor-Basics/index.html",
     "_site/embedded/Microprocessor-Basics",
     "_site/embedded",
@@ -182,7 +188,6 @@
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_site/Github-Blog-Tester/index.html",
-    "_site/Github-Blog-Tester",
     "_posts/2024-03-24-first.md",
     "_posts/2024-03-24-first|first.md",
     "_posts/[[2024-03-24-first|first.md",
@@ -202,10 +207,6 @@
     "_site/_pages/category-archive.md",
     "_pages/category-archive.md",
     "screenshot.png",
-    "screenshot-layouts.png",
-    "CHANGELOG.md",
-    "myblog/_site/assets/minima-social-icons.svg",
-    "_site/screenshot.png",
-    "_site/screenshot-layouts.png"
+    "CHANGELOG.md"
   ]
 }
