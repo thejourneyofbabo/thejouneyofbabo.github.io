@@ -31,3 +31,5 @@ And I found the format `![](../../files/image)` like this.
 Than you can see the lovely image either from your Obsidan pages and your website.
 Happy:)
 ![](../../files/jslogo.jpg)
+### Change the size of the image
+`{: width="100%" height="100%"}`

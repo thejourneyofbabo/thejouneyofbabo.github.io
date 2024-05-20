@@ -11,8 +11,12 @@
             "id": "bc7c67a647693e20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md"
+              }
             }
           },
           {
@@ -157,11 +165,12 @@
   },
   "active": "bc7c67a647693e20",
   "lastOpenFiles": [
+    "_posts/2024-03-24-first.md",
+    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-03-24-first.md",
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
@@ -175,7 +184,6 @@
     "_site/engineering",
     "_site/BLDC-Control/index.html",
     "_site/BLDC-Control",
-    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_site/tips/Adding-Image-Troubleshooting-Github-blog-with-Obsidian/index.html",
     "_site/files/microcontrollers.png",
     "_site/assets/images/babo.png",
