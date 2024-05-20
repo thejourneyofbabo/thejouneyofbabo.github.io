@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md"
+                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md"
               }
             }
           },
@@ -162,13 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f9e4b82a29ee8a",
+  "active": "bc7c67a647693e20",
   "lastOpenFiles": [
+    "_site/tips/Adding-Image-Troubleshooting-Github-blog-with-Obsidian/index.html",
+    "_site/tips/Adding-Image-Troubleshooting-Github-blog-with-Obsidian",
+    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
+    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_site/tips/Github-blog-with-Obsidian.-Image-Troubleshooting/index.html",
     "_site/tips/Github-blog-with-Obsidian.-Image-Troubleshooting",
-    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_site/tips/Github-blog-with-Obsidian-Image-Troubleshooting/index.html",
     "_site/tips/Github-blog-with-Obsidian-Image-Troubleshooting",
     "_site/tips",
@@ -179,7 +181,6 @@
     "_posts/2024-03-24-first.md",
     "_site/embedded/Microcontroller(마이크로컨트롤러)/index.html",
     "_site/embedded/Microcontroller(마이크로컨트롤러)",
-    "_site/Microcontroller(마이크로컨트롤러)/index.html",
     "_site/files/microcontrollers.png",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",

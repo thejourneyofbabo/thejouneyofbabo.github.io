@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Github blog with Obsidian. "Image Troubleshooting"
+title: '"Adding Image Troubleshooting"-Github blog with Obsidian'
 categories:
   - Tips
 tags: 
