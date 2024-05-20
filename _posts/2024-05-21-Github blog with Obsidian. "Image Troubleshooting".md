@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Github blog with Obsidian Image Troubleshooting
+title: Github blog with Obsidian. "Image Troubleshooting"
 categories:
   - Tips
 tags: 
@@ -16,7 +16,7 @@ But if you just leave it like that, at your webpage will show you nothing.
 So, by changing the format like this
 `![thejourneyofbabo](../files/image)`
 can make it seen at your website.
-### But.. when you added Category..
+## But.. when you added Category..
 >It didn't work!
 
 So, How can we solve this problem?
@@ -29,6 +29,5 @@ And I found the format `![](../../files/image)` like this.
 `../../` is the key.
 
 Than you can see the lovely image either from your Obsidan pages and your website.
-
-
-``
+Happy:)
+![](../../files/jslogo.jpg)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-21-Github blog with Obsidian Image Troubleshooting.md",
+                "file": "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-21-Github blog with Obsidian Image Troubleshooting.md",
+                "file": "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-21-Github blog with Obsidian Image Troubleshooting.md",
+                "file": "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-21-Github blog with Obsidian Image Troubleshooting.md"
+                "file": "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "bc7c67a647693e20",
   "lastOpenFiles": [
+    "_site/tips/Github-blog-with-Obsidian.-Image-Troubleshooting/index.html",
+    "_site/tips/Github-blog-with-Obsidian.-Image-Troubleshooting",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-05-21-Github blog with Obsidian Image Troubleshooting.md",
+    "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
     "_site/tips/Github-blog-with-Obsidian-Image-Troubleshooting/index.html",
     "_site/tips/Github-blog-with-Obsidian-Image-Troubleshooting",
     "_site/tips",
@@ -181,7 +183,6 @@
     "_site/Microcontroller(마이크로컨트롤러)/index.html",
     "_site/Microcontroller(마이크로컨트롤러)",
     "_site/files/microcontrollers.png",
-    "_site/assets/js/lunr/lunr.min.js",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",
     "_site/files/Embedded/microcontrollers.png",
