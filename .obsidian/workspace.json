@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f9e4b82a29ee8a",
+  "active": "bc7c67a647693e20",
   "lastOpenFiles": [
     "_posts/2024-05-20-Microprocessor-Basics.md",
     "_posts/2024-05-21-Github blog with Obsidian. \"Image Troubleshooting\".md",
