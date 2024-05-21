@@ -1,8 +1,7 @@
 ---
 layout: single
 title: Aurduino with Rust
-categories:
-  - Embedded
+categories: []
 tags:
   - embedded
   - rust
@@ -17,6 +16,12 @@ connected:
 Following the link, the github repository of 'avr-hal'. Embedded-hal abstractions for AVR microcontrollers
 
 ### Examples
-` cd examples/arduino-uno/src/bin`
+`cd examples/arduino-uno/src/bin` 
 At this folder, we can find multiple example code by using Rust for Arduino.
+ex) "uno-16chan-servo-drivers.rs"
 
+### How can run the examples?
+```
+# Build and run in on a connected board
+cargo run --bin uno-blink
+```
