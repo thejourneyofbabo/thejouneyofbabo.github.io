@@ -37,7 +37,7 @@ connected:
 	- 특정 이벤트가 발생하면 CPU의 현재 작업을 중단하고, 우선순위가 높은 작업을 처리하는 메커니즘.
 
 ### CPU: Architecture
->Von 
+>Von Neumann architecture / Harvard architecture
 
 | 특성       | Von Neumann 아키텍처      | Harvard 아키텍처     |
 | -------- | --------------------- | ---------------- |
