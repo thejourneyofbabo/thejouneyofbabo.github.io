@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-21-Aurduino with Rust.md",
+                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-21-Aurduino with Rust.md",
+                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-21-Aurduino with Rust.md",
+                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-21-Aurduino with Rust.md"
+                "file": "_posts/2024-05-21-'uno-blink'_Rust.md"
               }
             }
           },
@@ -166,20 +165,23 @@
   },
   "active": "bc7c67a647693e20",
   "lastOpenFiles": [
-    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
-    "_site/engineering/Microcontroller(마이크로컨트롤러)/index.html",
-    "_site/engineering/Microcontroller(마이크로컨트롤러)",
-    "_site/Microcontroller(마이크로컨트롤러)/index.html",
-    "_site/Microcontroller(마이크로컨트롤러)",
-    "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_site/engineering/Microprocessor-Basics/index.html",
-    "_site/engineering/Microprocessor-Basics",
-    "_site/Microprocessor-Basics/index.html",
-    "_site/Microprocessor-Basics",
     "_posts/2024-05-21-Aurduino with Rust.md",
-    "_site/embedded rust/Aurduino-with-Rust/index.html",
-    "_site/embedded rust/Aurduino-with-Rust",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+    "_posts/2024-05-21-'uno-blink'_Rust.md",
+    "_site/embedded rust/'uno-blink'_Rust/index.html",
+    "_site/embedded rust/'uno-blink'_Rust",
+    "_site/'uno-blink'_Rust/index.html",
+    "_site/'uno-blink'_Rust",
+    "_site/'uno-blink'-Rust/index.html",
+    "_site/'uno-blink'-Rust",
+    "_site/uno-Blink-Rust/index.html",
+    "_site/uno-Blink-Rust",
+    "_site/'Uno-blink'_Rust/index.html",
+    "_site/'Uno-blink'_Rust",
+    "_posts/2024-05-21-\"uno-blink\"-Rust.md",
+    "Templates/Basic Blog template.md",
+    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+    "_posts/2024-05-20-Microprocessor-Basics.md",
     "_pages/year-archive.md",
     "_pages/portfolio-archive.md",
     "_posts/2024-03-24-first.md",
@@ -200,7 +202,6 @@
     "_site/Screenshot 2024-05-20 at 5.50.18 PM.png",
     "_posts/2024-03-24-first|first.md",
     "_posts/[[2024-03-24-first|first.md",
-    "Templates/Basic Blog template.md",
     "README.md",
     "_site/_pages/search.md",
     "_pages/search.md",
@@ -208,8 +209,6 @@
     "_posts/Test without Date.md",
     "files/jslogo.jpg",
     "_site/_pages/404.md",
-    "_pages/404.md",
-    "_site/_pages/category-archive.md",
-    "_pages/category-archive.md"
+    "_pages/404.md"
   ]
 }
