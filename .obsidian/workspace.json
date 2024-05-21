@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+                "file": "_posts/2024-05-21-Aurduino with Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+                "file": "_posts/2024-05-21-Aurduino with Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+                "file": "_posts/2024-05-21-Aurduino with Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md"
+                "file": "_posts/2024-05-21-Aurduino with Rust.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15f9e4b82a29ee8a",
+  "active": "bc7c67a647693e20",
   "lastOpenFiles": [
+    "_site/embedded/Aurduino-with-Rust/index.html",
+    "_site/embedded/Aurduino-with-Rust",
+    "_site/Aurduino-with-Rust/index.html",
+    "_site/Aurduino-with-Rust",
+    "_site/page3/index.html",
+    "_site/page3",
+    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
+    "_posts/2024-05-21-Aurduino with Rust.md",
     "_data/navigation.yml~",
     "_site/year-archive/index.html",
     "_site/year-archive",
@@ -171,9 +181,7 @@
     "_site/portfolio",
     "_pages/year-archive.md",
     "_pages/portfolio-archive.md",
-    "_pages/category-archive.md~",
     "_posts/2024-03-24-first.md",
-    "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
@@ -181,12 +189,7 @@
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
-    "_site/tips/Github-blog-local-website/index.html",
-    "_site/tips/Github-blog-local-website",
-    "_site/Github-blog-local-website/index.html",
-    "_site/Github-blog-local-website",
     "_posts/2024-05-13-United_Automotive_Software.md",
-    "_site/engineering/BLDC-Control/index.html",
     "_site/files/microcontrollers.png",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",
@@ -208,7 +211,6 @@
     "_site/_pages/404.md",
     "_pages/404.md",
     "_site/_pages/category-archive.md",
-    "_pages/category-archive.md",
-    "CHANGELOG.md"
+    "_pages/category-archive.md"
   ]
 }
