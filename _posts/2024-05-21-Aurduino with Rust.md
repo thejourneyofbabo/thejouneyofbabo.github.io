@@ -12,7 +12,7 @@ author_profile: true
 aliases:
   - Arduino with Rust
 connected:
-  - "[[2024-05-21-'uno-blink'_Rust|`uno-blink']]"
+  - "[[2024-05-21-'uno-blink'_Rust|uno-blink]]"
 ---
 ## How to start?
 ["avr-hal"_github link_](https://github.com/Rahix/avr-hal)
