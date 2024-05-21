@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-21-'uno-blink'_Rust.md",
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-21-'uno-blink'_Rust.md"
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
-    "Templates/Basic Blog template.md",
+    "_posts/2024-05-20-Microprocessor-Basics.md",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
+    "Templates/Basic Blog template.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_site/embedded rust/'uno-blink'_Rust/index.html",
@@ -182,7 +183,6 @@
     "_site/'Uno-blink'_Rust",
     "_posts/2024-05-21-\"uno-blink\"-Rust.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
-    "_posts/2024-05-20-Microprocessor-Basics.md",
     "_pages/year-archive.md",
     "_pages/portfolio-archive.md",
     "_posts/2024-03-24-first.md",
