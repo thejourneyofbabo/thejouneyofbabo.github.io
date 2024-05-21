@@ -2,7 +2,7 @@
 layout: single
 title: Microcontroller(마이크로컨트롤러)
 categories:
-  - Embedded
+  - Engineering
 tags:
   - embedded
   - microprocessor

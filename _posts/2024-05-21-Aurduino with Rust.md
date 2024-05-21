@@ -1,7 +1,8 @@
 ---
 layout: single
 title: Aurduino with Rust
-categories: []
+categories:
+  - Embedded Rust
 tags:
   - embedded
   - rust
@@ -25,3 +26,9 @@ ex) "uno-16chan-servo-drivers.rs"
 # Build and run in on a connected board
 cargo run --bin uno-blink
 ```
+
+## What I will do
+- Understanding how the Rust code works with Arduino
+- Build my own Rust-Arduino(microcontroller) project
+	- Rust_arduino_car
+- Let's have a look
