@@ -14,11 +14,20 @@ toc: true
 author_profile: true
 ---
 ## Code preview
->"Hello World" of the embedded programming
+>**"Hello World" of the embedded programming**
+
+### Why [no_std], [no_main] ?
 ```rust
+/*
+* Blink the builtin LED - the "Hello World" of the embedded programming
+*/
+#![no_std]
+#![no_main]
 
-
+use panic_halt as _;
 ```
+
+
 
 ```rust
 /*
