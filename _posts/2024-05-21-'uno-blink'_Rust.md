@@ -15,7 +15,12 @@ author_profile: true
 ---
 ## Code preview
 >"Hello World" of the embedded programming
-```Rust
+```rust
+
+
+```
+
+```rust
 /*
 * Blink the builtin LED - the "Hello World" of the embedded programming
 */
@@ -45,10 +50,6 @@ fn main() -> ! {
 	}
 }
 ```
-
-
-
-
 
 
 
