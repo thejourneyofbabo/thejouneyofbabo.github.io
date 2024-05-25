@@ -2,7 +2,7 @@
 layout: single
 title: Microprocessor-Basics
 categories:
-  - Embedded
+  - Engineering
 tags:
   - embedded
   - microprocessor
