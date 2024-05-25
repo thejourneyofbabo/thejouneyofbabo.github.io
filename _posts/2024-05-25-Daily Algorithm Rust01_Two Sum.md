@@ -17,7 +17,7 @@ author_profile: true
 *Since_ 25.05.2024(Sat)*<br/>
 -Even I couldn't solve it, let's have a look and get used to the problems-
 
-## Two Sum
+## Problem. Two Sum
 - Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_. <br/>
 - You may assume that each input would have **_exactly_ one solution**, and you may not use the _same_ element twice.<br/>
 - You can return the answer in any order.
@@ -37,8 +37,25 @@ author_profile: true
 **Output:** [0,1]
 ```
 
-## First attempt
-
+### First attempt
+```rust
+// My Solution
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        let mut v: Vec<i32> = Vec::new();
+        for i in 0..=nums.len()-1 {
+            for j in i+1..=nums.len()-1 {
+                if (nums[i] + nums[j]) == target {
+                    v.push(i.try_into().unwrap());
+                    v.push(j.try_into().unwrap());
+                    break;
+                } else{};
+            }
+        }
+        return v;
+    }
+}
+```
 
 
 
