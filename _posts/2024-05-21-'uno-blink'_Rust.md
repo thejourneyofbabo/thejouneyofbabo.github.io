@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2024-05-21-'uno-blink'_Rust
+title: "'uno-blink'_Rust"
 categories:
   - Embedded Rust
 tags:
