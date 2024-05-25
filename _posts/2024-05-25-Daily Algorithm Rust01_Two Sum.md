@@ -45,19 +45,39 @@ impl Solution {
         let mut v: Vec<i32> = Vec::new();
         for i in 0..=nums.len()-1 {
             for j in i+1..=nums.len()-1 {
-                if (nums[i] + nums[j]) == target {
-                    v.push(i.try_into().unwrap());
+                if (nums[i] + nums[j]) == target { // check all the values in nums
+                    v.push(i.try_into().unwrap()); // if it work, push into vector
                     v.push(j.try_into().unwrap());
                     break;
                 } else{};
             }
         }
-        return v;
+		return v; // return the result vector
     }
 }
 ```
 
+### Second attempt using Hashmap
+```rust
+use std::collections::HashMap;
 
+impl Solution {
+    pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        let mut map = HashMap::new();
+        
+        for (i, &num) in nums.iter().enumerate() {
+            let complement = target - num;
+            if let Some(&index) = map.get(&complement) {
+                return vec![index as i32, i as i32];
+            }
+            map.insert(num, i);
+        }
+        
+        vec![]
+    }
+}
+
+```
 
 
 
