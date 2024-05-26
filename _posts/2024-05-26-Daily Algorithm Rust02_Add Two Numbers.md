@@ -36,7 +36,33 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ### Clone Coding
 ```rust
 impl Solution {
-	pub fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<
+	pub fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+		let mut p = l1;
+		let mut q = l2;
+		let mut carry = 0;
+		let mut dummy_head = Some(Box::new(ListNode::new(0)));
+		let mut current = &mut dummy_head;
+
+		while p.is_some() || q.is_some() {
+			let sum = carry +
+				p.as_ref().map_or(0, |node| node.val) +
+				q.as_ref().map_or(0, |node| node.val);
+			
+			carry = sum / 10;
+			
+			if let Some(ref mut curr) = current {
+				curr.next = Some(Box::new(ListNode::new(sum % 10)));
+				current = &mut curr.next;
+			}
+			
+			p = p.and_then(|node| node.next);
+			q = q.and_then(|node| node.next);
+		}
+		
+		if carry > 0 {
+			if let Some(ref mut curr) = current
+		}
+	}
 }
 ```
 
