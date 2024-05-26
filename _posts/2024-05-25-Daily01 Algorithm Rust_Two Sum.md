@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Daily Algorithm Rust01_Two Sum
+title: Daily01 Algorithm Rust_Two Sum
 categories:
   - Algorithm
 tags:

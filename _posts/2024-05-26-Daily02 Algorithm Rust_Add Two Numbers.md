@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Daily Algorithm Rust02_Add Two Numbers
+title: Daily02 Algorithm Rust_Add Two Numbers
 categories:
   - Algorithm
 tags:
