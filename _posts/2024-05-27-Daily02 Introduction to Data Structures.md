@@ -34,10 +34,12 @@ fn main() {
 	println!("{:?}", array);
 }
 ```
+
 **Key Points:**
 - Fixed size.
 - All elements must me of the same type.
 - Indexing starts from 0.
+
 **Usage:**
 ```rust
 fn main() {
@@ -46,6 +48,7 @@ fn main() {
 
 	// Modify an element
 	array[2] = 10;
+	println!("Modified array: {:?}", array);
 }
 ```
 
