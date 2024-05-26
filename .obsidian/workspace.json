@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-26-Daily02 Introduction to Data Structures.md",
+                "file": "Templates/Basic Blog template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-26-Daily02 Introduction to Data Structures.md",
+                "file": "Templates/Basic Blog template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-26-Daily02 Introduction to Data Structures.md",
+                "file": "Templates/Basic Blog template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-26-Daily02 Introduction to Data Structures.md"
+                "file": "Templates/Basic Blog template.md"
               }
             }
           },
@@ -166,22 +165,24 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
-    "_posts/2024-05-26-Daily02 Algorithm Rust_Add Two Numbers.md",
+    "Zettelkansten/Rust.md",
+    "_site/Zettelkansten/Rust.md",
+    "_site/Zettelkansten",
+    "Zettelkansten",
     "_posts/2024-05-26-Daily02 Introduction to Data Structures.md",
     "_posts/2024-05-25-Daily01 Algorithm Rust_Two Sum.md",
-    "_site/algorithm/Daily-Algorithm-Rust02_Add-Two-Numbers/index.html",
-    "_site/algorithm/Daily-Algorithm-Rust02_Add-Two-Numbers",
-    "_site/Daily-Algorithm-Rust02_Add-Two-Numbers/index.html",
-    "_site/Daily-Algorithm-Rust02_Add-Two-Numbers",
+    "_posts/2024-05-26-Daily02 Algorithm Rust_Add Two Numbers.md",
+    "_site/daily study/Daily02-Introduction-to-Data-Structures/index.html",
+    "_site/daily study/Daily02-Introduction-to-Data-Structures",
+    "_site/daily study/Daily01-Algorithm-Rust_Two-Sum/index.html",
+    "_site/daily study/Daily01-Algorithm-Rust_Two-Sum",
+    "_site/Daily01-Algorithm-Rust_Two-Sum/index.html",
+    "_site/Daily01-Algorithm-Rust_Two-Sum",
+    "_site/daily study/Daily02-Algorithm-Rust_Add-Two-Numbers/index.html",
+    "_site/daily study/Daily02-Algorithm-Rust_Add-Two-Numbers",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
     "Templates/Basic Blog template.md",
-    "_site/algorithm/Daily-Algorithm-Rust01_Two-Sum/index.html",
-    "_site/algorithm/Daily-Algorithm-Rust01_Two-Sum",
-    "_site/algorithm/Daily-Algorithm-Rust01_Two-Some/index.html",
-    "_site/algorithm/Daily-Algorithm-Rust01_Two-Some",
-    "_site/algorithm/Daily-Algorithm-Rust01_Add-Two-Numbers/index.html",
-    "_site/algorithm/Daily-Algorithm-Rust01_Add-Two-Numbers",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
@@ -209,8 +210,6 @@
     "README.md",
     "_site/_pages/search.md",
     "_pages/search.md",
-    "_posts/2024-05-17-Blog Edge case tester.md",
-    "_posts/Test without Date.md",
     "files/jslogo.jpg"
   ]
 }

@@ -2,7 +2,7 @@
 layout: single
 title: Daily01 Algorithm Rust_Two Sum
 categories:
-  - Algorithm
+  - Daily Study
 tags:
   - algorighm
   - rust
@@ -10,6 +10,7 @@ aliases:
   - Two Sum
 connected:
   - "[[Algorithms]]"
+  - "[[Rust]]"
 toc: true
 author_profile: true
 ---

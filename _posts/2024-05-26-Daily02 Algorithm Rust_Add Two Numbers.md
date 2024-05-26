@@ -2,13 +2,14 @@
 layout: single
 title: Daily02 Algorithm Rust_Add Two Numbers
 categories:
-  - Algorithm
+  - Daily Study
 tags:
   - algorighm
   - rust
 aliases: 
 connected:
   - "[[Algorithms]]"
+  - "[[Rust]]"
 toc: true
 author_profile: true
 ---
