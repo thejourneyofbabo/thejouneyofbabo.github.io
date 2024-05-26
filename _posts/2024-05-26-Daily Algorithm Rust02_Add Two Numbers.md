@@ -60,8 +60,12 @@ impl Solution {
 		}
 		
 		if carry > 0 {
-			if let Some(ref mut curr) = current
+			if let Some(ref mut curr) = current {
+				curr.next = Some(Box::new(ListNode::new(carry)));
+			}
 		}
+		
+		dummy_head.unwrap().next
 	}
 }
 ```
