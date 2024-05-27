@@ -94,8 +94,31 @@ fn main() {
 
 ### 4. Tuples
 
+**Definition:** A tuple is a fixed-size collection of elements of potentially different types.
 
+**Syntax in Rust**:
+```rust
+fn main() {
+	let tuple: (i32, f64, char) = (42, 6.7, 'c'); // A tuple with different types
+	println!("{:?}", tuple);
+}
+```
 
+**Key Points:**
+- Fixed size.
+- Elements can be of different types.
+- Useful for grouping together different types of values.
+
+**Usage:**
+```rust
+fn main() {
+	let tuple = (42, 6.7, 'c');
+	let (x, y, z) = tuple; // Destructuring the tuple
+	println!("The value of x is: {}", x);
+	pritnln!("The value of y is: {}", y);
+	println!("The value of )
+}
+```
 
 
 
