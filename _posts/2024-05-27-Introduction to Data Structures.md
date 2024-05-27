@@ -144,7 +144,15 @@ fn main() {
 	println!("Maximum value in the vector: {}", max);
 }
 ```
-
+### Example 3: Tuple Operations
+```rust
+fn main() {
+	let person: (&str, i32, f64) = ("Alice", 30, 65.5);
+	println!("Name: {}", person.0);
+	println!("Age: {}", person.1);
+	println!()
+}
+```
 
 
 
