@@ -19,7 +19,10 @@ A HashSet is a fundamental data structure in Rust's standard library (`std:::col
 ### Key Characteristics:
 1. **Uniqueness:** Guarantees the uniqueness of its elements. If you try to insert a value that already exists in the set, it will simply be ignored.
 2. **Unordered:** The element within a HashSet are not stored in any particular sequence. The order you insert items might not be the order you retrieve them.
-3. **Efficient Membership Testing:** Thanks to its underlying hash table im 
+3. **Efficient Membership Testing:** Thanks to its underlying hash table implementation, HashSet excels at quickly checking whether a specific value is present within the set. This is ofter referred to as "membership testing" and is much faster than searching through a list or array.
+
+### How does a HashSet work (Behind the scenes)?
+A HashSet uses a hash function to determine where to store each element. A hash function takes an input value and produces a
 
 
 
