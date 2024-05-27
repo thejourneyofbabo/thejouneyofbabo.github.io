@@ -51,7 +51,7 @@ fn main() {
 }
 ```
 
-### 3. Vectors
+## 3. Vectors
 **Definition:** A Vector is a resizable array, which can grow or shrink in size.
 
 **Syntax in Rust:**
@@ -93,7 +93,7 @@ fn main() {
 ```
 [Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=f710f4db23bea230785ee2182380490f)
 
-### 4. Tuples
+## 4. Tuples
 
 **Definition:** A tuple is a fixed-size collection of elements of potentially different types.
 
@@ -127,8 +127,8 @@ fn main() {
 ```
 [Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=8c97efbc4e58e034c70877a9bde5c051)
 
-### 5. Practical Examples
-#### **Example 1: Sum of  Array Elements**
+## 5. Practical Examples
+### **Example 1: Sum of  Array Elements**
 ```rust
 fn main() {
 	let array: [i32; 5] = [1, 2, 3, 4, 5];
@@ -136,7 +136,7 @@ fn main() {
 	println!("Sum of array elements: {}", sum);
 }
 ```
-#### **Example 2: Find Maximum in a Vector**
+### **Example 2: Find Maximum in a Vector**
 ```rust
 fn main() {
 	let vec = vec![10, 20, 5, 15];
@@ -150,9 +150,31 @@ fn main() {
 	let person: (&str, i32, f64) = ("Alice", 30, 65.5);
 	println!("Name: {}", person.0);
 	println!("Age: {}", person.1);
-	println!()
+	println!("Weight: {}", person.2);
 }
 ```
+## 6. Exercises
+### Exercise 1: Implement an array and print its elements.
+```rust
+fn main() {
+	let array: [i32; 5] = [1, 2, 3, 4, 5];
+	for elem in array.iter() {
+		println!("{}", elem);
+	}
+}
+```
+### Exercise 2: Create a vector, add elements, and print its length.
+```rust
+fn main() {
+	let mut vec = vec![10, 20, 30];
+	vec.push(40);
+	vec.push(50);
+	println!("Vector legth: {}", vec.len());
+}
+```
+### Exercise 3: Create a tuple, access and print each element.
+
+
 
 
 
