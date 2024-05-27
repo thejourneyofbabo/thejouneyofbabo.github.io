@@ -173,7 +173,14 @@ fn main() {
 }
 ```
 ### Exercise 3: Create a tuple, access and print each element.
-
+```rust
+fn main() {
+	let data = ("Rust", 2024, 3.14);
+	println!("Language: {}", data.0);
+	println!("Year: {}", data.1);
+	println!("Value: {}", data.2);
+}
+```
 
 
 
