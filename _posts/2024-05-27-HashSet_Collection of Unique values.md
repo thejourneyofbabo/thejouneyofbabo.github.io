@@ -2,7 +2,7 @@
 layout: single
 title: HashSet_Collection of Unique values
 categories:
-  - Daily Study
+  - Programming
 tags:
   - rust
   - data_structure

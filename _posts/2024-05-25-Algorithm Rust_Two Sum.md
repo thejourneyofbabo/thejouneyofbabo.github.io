@@ -2,7 +2,7 @@
 layout: single
 title: Daily01 Algorithm Rust_Two Sum
 categories:
-  - Daily Study
+  - Programming
 tags:
   - algorighm
   - rust

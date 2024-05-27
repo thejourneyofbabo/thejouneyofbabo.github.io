@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+                "file": "_posts/2024-05-27-Introduction to Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+                "file": "_posts/2024-05-27-Introduction to Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+                "file": "_posts/2024-05-27-Introduction to Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md"
+                "file": "_posts/2024-05-27-Introduction to Data Structures.md"
               }
             }
           },
@@ -166,33 +166,32 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
-    "_site/daily study/HashSet_Collection-of-Unique-values/index.html",
-    "_site/daily study/HashSet_Collection-of-Unique-values",
-    "_site/HashSet_Collection-of-Unique-values/index.html",
-    "_site/HashSet_Collection-of-Unique-values",
-    "_site/page4/index.html",
-    "_site/page4",
-    "_posts/2024-05-27-Daily03 Introduction to Data Structures.md",
     "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+    "_posts/2024-05-27-Introduction to Data Structures.md",
+    "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
+    "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+    "_site/programming/Algorithm-Rust_Two-Sum/index.html",
+    "_site/programming/Algorithm-Rust_Two-Sum",
+    "_site/Algorithm-Rust_Two-Sum/index.html",
+    "_site/Algorithm-Rust_Two-Sum",
+    "_site/Daily01-Algorithm-Rust_Two-Sum/index.html",
+    "_site/Daily01-Algorithm-Rust_Two-Sum",
+    "_site/programming/Algorithm-Rust_Add-Two-Numbers/index.html",
+    "_site/programming/Algorithm-Rust_Add-Two-Numbers",
+    "_site/Algorithm-Rust_Add-Two-Numbers/index.html",
+    "_site/Algorithm-Rust_Add-Two-Numbers",
     "_posts/Untitled.md",
-    "_site/daily study/Daily03-Introduction-to-Data-Structures/index.html",
-    "_site/daily study/Daily03-Introduction-to-Data-Structures",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
-    "_posts/2024-05-26-Daily02 Algorithm Rust_Add Two Numbers.md",
     "Zettelkansten/Rust.md",
-    "_site/Zettelkansten/Rust/index.html",
-    "_site/Zettelkansten/Rust",
     "Templates/Main Core Zettle.md",
-    "_site/Templates/Main Core Zettle/index.html",
     "_site/Templates/Main Core Zettle.md",
     "_site/Templates/Untitled.md",
     "Templates/Basic Blog template.md",
     "_site/Zettelkansten/Rust.md",
-    "_posts/2024-05-25-Daily01 Algorithm Rust_Two Sum.md",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
     "_posts/2024-05-21-\"uno-blink\"-Rust.md",
     "_pages/year-archive.md",

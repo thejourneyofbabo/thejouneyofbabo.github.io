@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Daily02 Algorithm Rust_Add Two Numbers
+title: Algorithm Rust_Add Two Numbers
 categories:
-  - Daily Study
+  - Programming
 tags:
   - algorighm
   - rust

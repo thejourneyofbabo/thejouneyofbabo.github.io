@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Daily03 Introduction to Data Structures
+title: Introduction to Data Structures
 categories:
-  - Daily Study
+  - Programming
 tags:
   - rust
   - data_structure
@@ -11,6 +11,7 @@ aliases:
   - rust data structure
 connected:
   - "[[Rust]]"
+  - "[[2024-05-27-HashSet_Collection of Unique values|HashSet]]"
 toc: true
 author_profile: true
 ---
@@ -135,7 +136,14 @@ fn main() {
 	println!("Sum of array elements: {}", sum);
 }
 ```
-
+**Example 2: Find Maximum in a Vector**
+```rust
+fn main() {
+	let vec = vec![10, 20, 5, 15];
+	let max = vec.iter().max().unwrap();
+	println!("Maximum value in the vector: {}", max);
+}
+```
 
 
 
