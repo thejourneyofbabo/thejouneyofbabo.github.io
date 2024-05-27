@@ -130,7 +130,9 @@ fn main() {
 **Example 1: Sum of  Array Elements**
 ```rust
 fn main() {
-	let array: [i32; 5]
+	let array: [i32; 5] = [1, 2, 3, 4, 5];
+	let sum: i32 = array.iter().sum();
+	println!("Sum of array elements: {}", sum);
 }
 ```
 
