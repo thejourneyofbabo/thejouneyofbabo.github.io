@@ -128,7 +128,7 @@ fn main() {
 [Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=8c97efbc4e58e034c70877a9bde5c051)
 
 ### 5. Practical Examples
-**Example 1: Sum of  Array Elements**
+#### **Example 1: Sum of  Array Elements**
 ```rust
 fn main() {
 	let array: [i32; 5] = [1, 2, 3, 4, 5];
@@ -136,7 +136,7 @@ fn main() {
 	println!("Sum of array elements: {}", sum);
 }
 ```
-**Example 2: Find Maximum in a Vector**
+#### **Example 2: Find Maximum in a Vector**
 ```rust
 fn main() {
 	let vec = vec![10, 20, 5, 15];
