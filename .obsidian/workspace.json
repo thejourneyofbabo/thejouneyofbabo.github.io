@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-27-Daily03 Introduction to Data Structures.md",
+                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-27-Daily03 Introduction to Data Structures.md",
+                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-27-Daily03 Introduction to Data Structures.md",
+                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-27-Daily03 Introduction to Data Structures.md"
+                "file": "_posts/2024-05-27-HashSet_Collection of Unique values.md"
               }
             }
           },
@@ -166,8 +166,15 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
-    "_posts/Untitled.md",
+    "_site/daily study/HashSet_Collection-of-Unique-values/index.html",
+    "_site/daily study/HashSet_Collection-of-Unique-values",
+    "_site/HashSet_Collection-of-Unique-values/index.html",
+    "_site/HashSet_Collection-of-Unique-values",
+    "_site/page4/index.html",
+    "_site/page4",
     "_posts/2024-05-27-Daily03 Introduction to Data Structures.md",
+    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+    "_posts/Untitled.md",
     "_site/daily study/Daily03-Introduction-to-Data-Structures/index.html",
     "_site/daily study/Daily03-Introduction-to-Data-Structures",
     "_posts/2024-05-17-Github Blog Tester.md",
@@ -181,16 +188,11 @@
     "_site/Zettelkansten/Rust",
     "Templates/Main Core Zettle.md",
     "_site/Templates/Main Core Zettle/index.html",
-    "_site/Templates/Main Core Zettle",
     "_site/Templates/Main Core Zettle.md",
     "_site/Templates/Untitled.md",
     "Templates/Basic Blog template.md",
     "_site/Zettelkansten/Rust.md",
-    "_site/Zettelkansten",
-    "Zettelkansten",
     "_posts/2024-05-25-Daily01 Algorithm Rust_Two Sum.md",
-    "_site/daily study/Daily02-Introduction-to-Data-Structures/index.html",
-    "_site/daily study/Daily02-Introduction-to-Data-Structures",
     "_posts/2024-05-21-'uno-blink'_Rust.md",
     "_posts/2024-05-21-\"uno-blink\"-Rust.md",
     "_pages/year-archive.md",
@@ -200,7 +202,6 @@
     "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-08-Obsidian with Git.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
-    "_posts/2024-05-13-United_Automotive_Software.md",
     "_site/files/microcontrollers.png",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",
@@ -210,7 +211,6 @@
     "files/Screenshot 2024-05-20 at 5.50.18 PM.png",
     "_site/files/Screenshot 2024-05-20 at 5.50.18 PM.png",
     "_site/Screenshot 2024-05-20 at 5.50.18 PM.png",
-    "_posts/2024-03-24-first|first.md",
     "files/jslogo.jpg"
   ]
 }
