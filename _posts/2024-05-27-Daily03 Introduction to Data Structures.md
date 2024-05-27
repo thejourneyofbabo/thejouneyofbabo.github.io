@@ -90,8 +90,9 @@ fn main() {
 	println!("Modified vector: {:?}", vec);
 }
 ```
-[Embedded code](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&code=fn+main%28%29+%7B%0A%09let+mut+vec+%3D+vec%21%5B1%2C+2%2C+3%2C+4%2C+5%5D%3B%0A%09println%21%28%22Original+vector%3A+%7B%3A%3F%7D%22%2C+vec%29%3B%0A%0A%09%2F%2F+Add+elements%0A%09vec.push%286%29%3B%0A%09vec.push%287%29%3B%0A%09println%21%28%22After+adding+elements%3A+%7B%3A%3F%7D%22%2C+vec%29%3B%0A%0A%09%2F%2F+Remove+elements%0A%09vec.pop%28%29%3B%0A%09println%21%28%22After+removing+element%3A+%7B%3A%3F%7D%22%2C+vec%29%3B%0A%0A%09%2F%2F+Access+elements%0A%09println%21%28%22Element+at+index+2%3A+%7B%7D%22%2C+vec%5B2%5D%29%3B%0A%0A%09%2F%2F+Modify+an+element%0A%09vec%5B2%5D+%3D+10%3B%0A%09println%21%28%22Modified+vector%3A+%7B%3A%3F%7D%22%2C+vec%29%3B%0A%7D)
+[Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=f710f4db23bea230785ee2182380490f)
 
+### 4. Tuples
 
 
 
