@@ -22,7 +22,17 @@ A HashSet is a fundamental data structure in Rust's standard library (`std:::col
 3. **Efficient Membership Testing:** Thanks to its underlying hash table implementation, HashSet excels at quickly checking whether a specific value is present within the set. This is ofter referred to as "membership testing" and is much faster than searching through a list or array.
 
 ### How does a HashSet work (Behind the scenes)?
-A HashSet uses a hash function to determine where to store each element. A hash function takes an input value and produces a
+A HashSet uses a hash function to determine where to store each element. A hash function takes an input value and produces a numerical output (a hash code) that ideally should be unique for each distinct input. This hash code is then used as an index to store or retrieve the element within the HashSet's internal storage.
+
+### Why use a HashSet?
+- **Removing Duplicates:** If you have a collection of items and you need to eliminate duplicates, a HashSet is the perfect tool.
+- **Fast Lookups:** When  you need to repeatedly check if a value exists within a set, HashSet's efficient lookup is invaluable.
+- **Mathematical Set Operations:** HashSets support operations like union, intersection, and difference, which are very useful in set theory and many algorithms.
+
+### Creating and Using a HashSet:
+```rust
+
+```
 
 
 
