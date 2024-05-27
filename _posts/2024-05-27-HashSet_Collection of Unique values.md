@@ -44,8 +44,17 @@ if books.contains("The Hitchhiker's Guide to the Galaxy") {
 	println!("This book is in the set!");
 }
 ```
+[Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ff1f7e4729b36b623a45b53197787e3d)
 
-
+### HashSet Methods:
+HashSet offers a rich set of methods for inserting, removing, checking membership, iterating over elements, and performing set operations. Some common ones:
+- `insert(value)`: Inserts a value into the set.
+- `remove(value)`: Removes a value from the set.
+- `contains(value)`: Checks if a value is in the set.
+- `is_empty()`: Checks if the set is empty.
+- `len()`: Returns the number of elements in the set.
+- `iter()`: Returns an iterator over the elements in the set.
+- `union()`, `intersection()`, `difference()`: Performs set operations.
 
 
 
