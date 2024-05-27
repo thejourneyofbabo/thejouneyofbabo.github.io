@@ -31,7 +31,18 @@ A HashSet uses a hash function to determine where to store each element. A hash 
 
 ### Creating and Using a HashSet:
 ```rust
+use std::collections::HashSet;
 
+let mut books = HashSet::new(); // Create an empty HashSet
+books.insert("The Lord of the Rings");
+books.insert("The Hitchhiker's Guide to the Galaxy");
+books.insert("The Lord of the Rings"); // This won't be inserted again
+
+println!("{:?}", books); // Prints the uniuqe book titles
+
+if books.contains("The Hitchhiker's Guide to the Galaxy") {
+	println!("This book is in the set!");
+}
 ```
 
 
