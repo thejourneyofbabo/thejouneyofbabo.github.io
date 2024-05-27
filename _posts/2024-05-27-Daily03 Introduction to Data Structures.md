@@ -115,10 +115,25 @@ fn main() {
 	let tuple = (42, 6.7, 'c');
 	let (x, y, z) = tuple; // Destructuring the tuple
 	println!("The value of x is: {}", x);
-	pritnln!("The value of y is: {}", y);
-	println!("The value of )
+	println!("The value of y is: {}", y);
+	println!("The value of z is: {}", z);
+
+	// Access elements by index
+	println!("First element: {}", tuple.0);
+	println!("Second element: {}", tuple.1);
+	println!("Third element: {}", tuple.2);
 }
 ```
+[Code in Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=8c97efbc4e58e034c70877a9bde5c051)
+
+### 5. Practical Examples
+**Example 1: Sum of  Array Elements**
+```rust
+fn main() {
+	let array: [i32; 5]
+}
+```
+
 
 
 
