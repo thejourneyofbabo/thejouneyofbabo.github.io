@@ -15,8 +15,7 @@ toc: true
 author_profile: true
 ---
 ## 1. Introduction to Data Structures
-**Definition:** <br/>
-Data structures are ways to store and organise data so that they can be used efficiently.
+**Definition:** Data structures are ways to store and organise data so that they can be used efficiently.
 
 **Importance:**
 - Fundamental for building efficient software.
@@ -24,8 +23,7 @@ Data structures are ways to store and organise data so that they can be used eff
 - Choosing the right data structure can improve performance.
 
 ## 2. Arrays
-**Definition:**<br/>
-An array is a fixed-size collection of elements of the same type stored in contiguous memory locations.
+**Definition:** An array is a fixed-size collection of elements of the same type stored in contiguous memory locations.
 
 **Syntax in Rust:**
 ```rust
@@ -51,6 +49,25 @@ fn main() {
 	println!("Modified array: {:?}", array);
 }
 ```
+
+### 3. Vectors
+**Definition:** A Vector is a resizable array, which can grow or shrink in size.
+
+**Syntax in Rust:**
+```rust
+fn main() {
+	let mut vec: Vec<i32> = Vec::new(); // Creating an empty vector
+	vec.push(1);
+	vec.push(2);
+	vec.push(3);
+	println!("{:?}", vec);
+}
+```
+**Key Points:**
+- Dynamically sized
+- Useful when you don't know
+
+
 
 
 
