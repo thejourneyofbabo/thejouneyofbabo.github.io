@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Daily02 Introduction to Data Structures
+title: Daily03 Introduction to Data Structures
 categories:
   - Daily Study
 tags:
