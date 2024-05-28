@@ -43,13 +43,14 @@ fn main() {
 - **HashMap:** If you need fast lookups, a **'HashMap'** offers average-case O(1) time complexity for search operations.
 ```rust
 use std::collections::HashMap;
-
+```
+```rust
 fn main() {
 	let mut map = HashMap::new();
 	map.insert(1, "one");
 	map.insert(2, "two");
 	map.insert(3, "three");
-
+	
 	if let Some(value) = map.get(&2) {
 		println!("Found: {}", value);
 	} else {
