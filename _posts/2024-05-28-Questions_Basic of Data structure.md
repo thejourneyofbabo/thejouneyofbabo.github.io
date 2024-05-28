@@ -58,7 +58,15 @@ fn main() {
 	}
 }
 ```
-Trade-off: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
+*Trade-off*: Hash maps use more memory compared to vectors and have an overhead for hashing.
+- **BTreeMap:** If you need a sorted map with efficient lookups, **'BTreeMap'** provides O(log n) time complexity for search operations.
+```rust
+```
+```rust
+use std::collections::BTreeMap;
+
+fn main()
+```
 
 
 
