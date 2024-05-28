@@ -80,6 +80,7 @@ fn main() {
 }
 ```
 *Trade-Off*: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
+
 ## Q2. What are some common operations on arrays and vectors, and how can I optimize them in Rust?
 **Common Operations:**
 - **Accessing Elements:** Access elements by index.
@@ -119,6 +120,7 @@ let sum: i32 = vec.iter().sum();
 ```rust
 let elem = vec.get(0);
 ```
+
 ## Q3. How can I handle large datasets in Rust using these basic data structures without running into performance issues?
 **Handling Large Datasets:**
 1. **Efficient Memory Management:** Preallocate memory to minimize reallocations.
@@ -142,7 +144,12 @@ use rayon::prelude::*;
 ```
 ```rust
 let large_dataset = (0..1_000_000).collect::<Vec<_>>();
+let sum: i64 = large_dataset.par_iter().sum();
 ```
+5. **Efficient Data Structure:** For specific tasks, consider using more advance data structures like **'HashMap'**, **'BTreeMap'**, or custom structures that are optimized for use case.
+
+
+
 
 
 
