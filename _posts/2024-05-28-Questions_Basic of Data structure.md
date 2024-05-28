@@ -74,11 +74,24 @@ fn main() {
 
 	if let Some(value) = map.get(&"banana") {
 		println!("Found: {}", value);
+	} else {
+		println!("Not Found");
 	}
 }
 ```
-
-
+*Trade-Off*: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
+## Q2. What are some common operation on arrays and vectors, and how can I optimize them in Rust?
+**Common Operations:**
+- **Accessing Elements:** Access elements by index.
+```rust
+let element = vec[0];
+```
+- **Iterating:** Iterate over elements using **'for'** loop or iterators.
+```rust
+for elem in &vec {
+	println!()
+}
+```
 
 
 
