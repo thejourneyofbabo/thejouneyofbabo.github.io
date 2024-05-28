@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-28-test.md",
+                "file": "Templates/Basic Blog template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-28-test.md",
+                "file": "Templates/Basic Blog template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-28-test.md",
+                "file": "Templates/Basic Blog template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-28-test.md"
+                "file": "Templates/Basic Blog template.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
+    "_posts/2024-05-28-test.md",
     "Templates/Basic Blog template.md",
     "Templates/Main Core Zettle.md",
-    "_posts/2024-05-28-test.md",
     "_site/test/index.html",
     "_site/test",
     "_posts/2024-05-28-Questions_Basic of Data structure.md",
