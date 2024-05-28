@@ -80,7 +80,7 @@ fn main() {
 }
 ```
 *Trade-Off*: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
-## Q2. What are some common operation on arrays and vectors, and how can I optimize them in Rust?
+## Q2. What are some common operations on arrays and vectors, and how can I optimize them in Rust?
 **Common Operations:**
 - **Accessing Elements:** Access elements by index.
 ```rust
@@ -89,9 +89,27 @@ let element = vec[0];
 - **Iterating:** Iterate over elements using **'for'** loop or iterators.
 ```rust
 for elem in &vec {
-	println!()
+	println!("{}", elem);
 }
 ```
+- **Modifying Elements:** Modify elements by accessing them through indexing.
+```rust
+vec[0] = 10;
+```
+- **Adding Elements:** Add elements using **'push'**.
+```rust
+vec.push(6);
+```
+- **Removing Elements:** Removing elements using **'pop'** or **'remove'**.
+```rust
+vec.pop(); // Removes the last element
+vec.remove(0); // Removes elements at index 0
+```
+
+**Optimization **
+
+
+
 
 
 
