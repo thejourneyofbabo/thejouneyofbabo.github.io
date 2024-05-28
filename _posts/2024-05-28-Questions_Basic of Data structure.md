@@ -61,11 +61,21 @@ fn main() {
 *Trade-off*: Hash maps use more memory compared to vectors and have an overhead for hashing.
 - **BTreeMap:** If you need a sorted map with efficient lookups, **'BTreeMap'** provides O(log n) time complexity for search operations.
 ```rust
+use std::collections::BTreeMap;
 ```
 ```rust
-use std::collections::BTreeMap;
+fn main() {
+	let mut map = BTreeMap::new();
+	map.insert("apple", 3);
+	map.insert("banana", 2);
+	map.insert("orange", 5);
 
-fn main()
+	println!("{:?}", map);
+
+	if let Some(value) = map.get(&"banana") {
+		println!("Found: {}", value);
+	}
+}
 ```
 
 
