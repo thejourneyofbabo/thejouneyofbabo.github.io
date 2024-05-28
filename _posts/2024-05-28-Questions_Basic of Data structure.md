@@ -127,18 +127,15 @@ let mut vec = Vec::with_capacity(1_000_000); // Preallocate space for 1 million 
 ```
 2. **Chunk Processing:** Process data in chuncs
 ```rust
-for chunk in vec.chunks(1000) {
-	// Process each chunk of 1000 elements
-}
-```
-```rust
-let vec = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; // 12 elements vector
-
-for chunk in vec.chunks(4) {
-	println!("{:?}", chunk);
+fn main() {
+	let vec = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; // 12개 요소 벡터
+	
+	for chunk in vec.chunks(4) {  // 4개 요소씩 청크로 나누기
+	    println!("{:?}", chunk); // 각 청크 출력
+	}
 }
 
-/* Output
+/*
 [1, 2, 3, 4]
 [5, 6, 7, 8]
 [9, 10, 11, 12]
