@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
+                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
+                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
+                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md"
+                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md"
               }
             }
           },
@@ -166,6 +165,8 @@
   },
   "active": "b79a68d75a3524b4",
   "lastOpenFiles": [
+    "_posts/2024-05-21-Aurduino with Rust.md",
+    "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_site/programming/Questions_Basic-of-Data-structure/index.html",
     "_site/programming/Questions_Basic-of-Data-structure",
     "_site/programming/Questions_-Data-structure/index.html",
@@ -173,7 +174,6 @@
     "_site/Questions_-Data-structure/index.html",
     "_site/Questions_-Data-structure",
     "_posts/2024-05-27-Introduction to Data Structures.md",
-    "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_posts/2024-05-27-HashSet_Collection of Unique values.md",
     "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
@@ -181,13 +181,11 @@
     "_site/programming/Algorithm-Rust_Two-Sum",
     "_site/Algorithm-Rust_Two-Sum/index.html",
     "_site/Algorithm-Rust_Two-Sum",
-    "_site/Daily01-Algorithm-Rust_Two-Sum/index.html",
     "_posts/Untitled.md",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
-    "_posts/2024-05-21-Aurduino with Rust.md",
     "Zettelkansten/Rust.md",
     "Templates/Main Core Zettle.md",
     "_site/Templates/Main Core Zettle.md",
