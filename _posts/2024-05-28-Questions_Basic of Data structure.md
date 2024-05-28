@@ -133,9 +133,16 @@ for chunk in vec.chunks(1000) {
 ```
 3. **Streaming Data:** Use iterators and streaming to process data lazily, which is useful for handling large datasets without loading everything into memory at once.
 ```rust
-let large_dataset = (0..1_)
+let large_dataset = (0..1_000_000).collect::<Vec<_>>();
+let sum: i64 = large_dataset.iter().take(1000).sum();
 ```
-
+4. **Parallel Processing:** Use crates like **'rayon'** for parallel processing to take advantage of multi-core CPUs.
+```rust
+use rayon::prelude::*;
+```
+```rust
+let large_dataset = (0..1_000_000).collect::<Vec<_>>();
+```
 
 
 
