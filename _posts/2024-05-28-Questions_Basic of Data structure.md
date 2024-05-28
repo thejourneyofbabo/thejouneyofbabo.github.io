@@ -106,8 +106,22 @@ vec.pop(); // Removes the last element
 vec.remove(0); // Removes elements at index 0
 ```
 
-**Optimization **
-
+**Optimization Tips:**
+- **Preallocate Memory:** If you know the number of elements in advance, preallocate memory to avoid multiple reallocations.
+```rust
+let mut vec = Vec::with_capacity(100);
+```
+- **Use Iterators:** Iterators are often more efficient and idiomatic in Rust
+```rust
+let sum: i32 = vec.iter().sum();
+```
+- **Avoid Unnecessary Cloning:** Use references to avoid unnecessary cloning of elements.
+```rust
+let elem = vec.get(0);
+```
+## Q3. How can I handle large datasets in Rust using these basic data structures without running into performance issues?
+**Handling Large Datasets:**
+1. **Efficient Memory Management:** Preallocate memory to minimize reallocations
 
 
 
