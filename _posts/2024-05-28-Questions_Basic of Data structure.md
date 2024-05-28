@@ -57,8 +57,6 @@ fn main() {
 	}
 }
 ```
-
-
 Trade-off: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
 
 
