@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b030cd9eb0a295f",
+        "id": "309e8cf367374c48",
         "type": "tabs",
         "children": [
           {
-            "id": "7033eae59ccb10b0",
+            "id": "ddfc50805ca370ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,44 +64,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "d2e34c6b2b225a6e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md"
+                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md"
               }
             }
           },
@@ -169,8 +133,12 @@
             "id": "15f9e4b82a29ee8a",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -199,11 +167,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7033eae59ccb10b0",
+  "active": "ddfc50805ca370ec",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "_site/Untitled.canvas",
     "_posts/2024-05-28-Questions_Basic of Data structure.md",
-    "_posts/2024-05-20-Microprocessor-Basics.md",
+    "Zettelkansten/Rust.md",
+    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+    "_posts/2024-05-27-Introduction to Data Structures.md",
     "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+    "_posts/2024-05-20-Microprocessor-Basics.md",
     "Templates/Basic Blog template.md",
     "_posts/2024-05-28-test.md",
     "Templates/Main Core Zettle.md",
@@ -219,8 +192,6 @@
     "_site/programming/Questions_-Data-structure",
     "_site/Questions_-Data-structure/index.html",
     "_site/Questions_-Data-structure",
-    "_posts/2024-05-27-Introduction to Data Structures.md",
-    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
     "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "_site/programming/Algorithm-Rust_Two-Sum/index.html",
     "_site/programming/Algorithm-Rust_Two-Sum",
@@ -228,7 +199,6 @@
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
-    "Zettelkansten/Rust.md",
     "_site/Templates/Main Core Zettle.md",
     "_site/Templates/Untitled.md",
     "_site/Zettelkansten/Rust.md",
