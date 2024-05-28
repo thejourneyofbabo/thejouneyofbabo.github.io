@@ -121,8 +121,29 @@ let elem = vec.get(0);
 ```
 ## Q3. How can I handle large datasets in Rust using these basic data structures without running into performance issues?
 **Handling Large Datasets:**
-1. **Efficient Memory Management:** Preallocate memory to minimize reallocations
+1. **Efficient Memory Management:** Preallocate memory to minimize reallocations.
+```rust
+let mut vec = Vec::with_capacity(1_000_000); // Preallocate space for 1 million elements
+```
+2. **Chunk Processing:** Process data in chuncs
+```rust
+for chunk in vec.chunks(1000) {
+	// Process each chunk of 1000 elements
+}
+```
+```rust
+let vec = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; // 12 elements vector
 
+for chunk in vec.chunks(4) {
+	println!("{:?}", chunk);
+}
+
+/* Output
+[1, 2, 3, 4]
+[5, 6, 7, 8]
+[9, 10, 11, 12]
+*/
+```
 
 
 
