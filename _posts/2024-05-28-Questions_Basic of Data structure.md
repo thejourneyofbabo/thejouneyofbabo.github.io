@@ -29,9 +29,20 @@ fn main() {
 ```
 - **Binary Search:** If the vector is sorted, you can use binary search which has a time complexity of O(log n). Rust provides the **'binary_search'** method for vectors.
 ```rust
-for 
+fn main() {
+	let mut vec = vec![1, 2, 3, 4, 5];
+	vec.sort();
+	match vec.binary_search(&3) {
+		Ok(index) => println!("Found at index {}", index),
+		Err(_) => println!("Not Found"),	
+	}
+}
 ```
 
+**Trade-offs compare to Other Data Structures:**
+- **HashMap:** If you need fast lookups, a **'HashMap'** offers average-case O(1) time complexity for search operations.
+  ```rust
+```
 
 
 
