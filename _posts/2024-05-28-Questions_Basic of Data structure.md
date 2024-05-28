@@ -41,9 +41,25 @@ fn main() {
 
 **Trade-offs compare to Other Data Structures:**
 - **HashMap:** If you need fast lookups, a **'HashMap'** offers average-case O(1) time complexity for search operations.
-  ```rust
+```rust
+use std::collections::HashMap;
+
+fn main() {
+	let mut map = HashMap::new();
+	map.insert(1, "one");
+	map.insert(2, "two");
+	map.insert(3, "three");
+
+	if let Some(value) = map.get(&2) {
+		println!("Found: {}", value);
+	} else {
+		println!("Not Found");
+	}
+}
 ```
 
+
+Trade-off: B-trees have slower insertion and deletion times compared to hash maps but maintain order.
 
 
 
