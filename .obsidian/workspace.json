@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "379ee8f555e1e53a",
@@ -191,6 +192,7 @@
   },
   "active": "82b50dd14a90b6f6",
   "lastOpenFiles": [
+    "_sass/minimal-mistakes/_variables.scss~",
     "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
     "Excalidraw/Drawing 2024-05-30 00.41.26.excalidraw.md",
