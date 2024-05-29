@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [],
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Hannotate TC",
   "textFontFamily": "Hannotate TC",
-  "baseFontSize": 18
+  "baseFontSize": 16
 }
