@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "enabledCssSnippets": [],
   "interfaceFontFamily": "Apple Braille",
-  "textFontFamily": "AppleMyungjo",
+  "textFontFamily": "",
   "baseFontSize": 16,
   "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
