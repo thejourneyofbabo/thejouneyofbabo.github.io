@@ -56,3 +56,4 @@ Align 기능
 [First blog](../Engineering/BLDC-Control/)
 
 
+![](../../Excalidraw/Pasted image 20240529160753.png)

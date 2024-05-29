@@ -11,6 +11,18 @@
             "id": "7b4e258e8000345a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efa02c80c9d2e4fd",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md"
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
+                "file": "_posts/2024-05-17-Github Blog Tester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md"
+                "file": "_posts/2024-05-17-Github Blog Tester.md"
               }
             }
           },
@@ -168,53 +180,53 @@
   },
   "active": "7b4e258e8000345a",
   "lastOpenFiles": [
+    "_posts/2024-05-14-BLDC Control.md",
+    "_posts/2024-05-13-United_Automotive_Software.md",
+    "_posts/2024-05-11-Github-blog-local-website.md",
+    "_posts/2024-05-08-Obsidian with Git.md",
+    "_posts/2024-04-22-The_Journey_of_BABO.md",
+    "_posts/2024-03-24-first.md",
+    "_posts/2024-05-28-Questions_Basic of Data structure.md",
+    "_posts/2024-05-27-Introduction to Data Structures.md",
+    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+    "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
+    "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
+    "_posts/2024-05-21-'uno-blink'_Rust.md",
+    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
+    "_posts/2024-05-17-Github Blog Tester.md",
+    "_site/files/Pasted image 20240529160753.png",
+    "files/Pasted image 20240529160753.png",
+    "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
+    "files/Pasted image 20240529160554.png",
+    "_site/files/Pasted image 20240529160554.png",
     "_site/Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw/index.html",
     "_site/Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw",
     "_site/Excalidraw",
-    "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
     "Excalidraw",
-    "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "Untitled.canvas",
     "_site/Untitled.canvas",
     "Zettelkansten/Rust.md",
-    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
-    "_posts/2024-05-27-Introduction to Data Structures.md",
-    "_posts/2024-05-25-Algorithm Rust_Two Sum.md",
     "_posts/2024-05-20-Microprocessor-Basics.md",
     "Templates/Basic Blog template.md",
     "_posts/2024-05-28-test.md",
     "Templates/Main Core Zettle.md",
     "_site/test/index.html",
     "_site/test",
-    "_posts/2024-03-24-first.md",
-    "_posts/2024-05-08-Obsidian with Git.md",
-    "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
     "_site/programming/Questions_Basic-of-Data-structure/index.html",
     "_site/programming/Questions_Basic-of-Data-structure",
     "_site/programming/Questions_-Data-structure/index.html",
     "_site/programming/Questions_-Data-structure",
-    "_site/Questions_-Data-structure/index.html",
-    "_posts/2024-05-26-Algorithm Rust_Add Two Numbers.md",
     "_posts/Untitled.md",
-    "_posts/2024-05-17-Github Blog Tester.md",
-    "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_posts/2024-05-21-\"Adding Image Troubleshooting\"-Github blog with Obsidian.md",
     "_site/Templates/Main Core Zettle.md",
     "_site/Templates/Untitled.md",
     "_site/Zettelkansten/Rust.md",
-    "_posts/2024-05-21-'uno-blink'_Rust.md",
-    "_posts/2024-05-21-\"uno-blink\"-Rust.md",
-    "_pages/year-archive.md",
     "_site/files/microcontrollers.png",
     "_site/assets/images/babo.png",
     "_site/files/jslogo.jpg",
     "_site/files/Embedded/microcontrollers.png",
     "files/microcontrollers.png",
-    "_site/files/Screenshot 2024-05-20 at 5.51.50 PM.png",
-    "files/Screenshot 2024-05-20 at 5.50.18 PM.png",
-    "_site/files/Screenshot 2024-05-20 at 5.50.18 PM.png",
-    "_site/Screenshot 2024-05-20 at 5.50.18 PM.png",
-    "files/jslogo.jpg"
+    "_site/files/Screenshot 2024-05-20 at 5.51.50 PM.png"
   ]
 }
