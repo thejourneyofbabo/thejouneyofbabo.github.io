@@ -38,6 +38,7 @@ connected:
 
 ### CPU: Architecture
 >Von Neumann architecture / Harvard architecture
+<br/>
 
 | 특성       | Von Neumann 아키텍처      | Harvard 아키텍처     |
 | -------- | --------------------- | ---------------- |
@@ -47,6 +48,7 @@ connected:
 | 설계 및 구현  | 설계가 간단하고 구현이 용이       | 설계가 복잡하고 구현이 어려움 |
 | 메모리 유연성  | 높은 유연성                | 낮은 유연성           |
 | 동적 코드 수정 | 가능                    | 불가능 또는 어려움       |
+
 ### CPU: Instruction Set
 
 | 특성          | Reduced Instruction Set Computer(RISC) | Complex Instruction Set Computer(CISC) |

@@ -2,8 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [],
-  "interfaceFontFamily": "Apple Braille",
+  "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": ""
 }
