@@ -11,9 +11,11 @@
             "id": "7b4e258e8000345a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md"
+                "file": "_posts/2024-05-08-Obsidian with Git.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
+                "file": "_posts/2024-05-08-Obsidian with Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
+                "file": "_posts/2024-05-08-Obsidian with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md"
+                "file": "_posts/2024-05-08-Obsidian with Git.md"
               }
             }
           },
@@ -185,6 +187,9 @@
   },
   "active": "7b4e258e8000345a",
   "lastOpenFiles": [
+    "_posts/2024-04-22-The_Journey_of_BABO.md",
+    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
+    "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_site/Fonts/Nanum Handwriting Sincerity.ttf",
     "Fonts/Nanum Handwriting Sincerity.ttf",
@@ -207,11 +212,8 @@
     "_posts/2024-05-13-United_Automotive_Software.md",
     "_posts/2024-05-11-Github-blog-local-website.md",
     "_posts/2024-05-08-Obsidian with Git.md",
-    "_posts/2024-04-22-The_Journey_of_BABO.md",
     "_posts/2024-05-27-Introduction to Data Structures.md",
-    "_posts/2024-05-27-HashSet_Collection of Unique values.md",
     "_site/files/Pasted image 20240529160753.png",
-    "Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw.md",
     "files/Pasted image 20240529160554.png",
     "_site/files/Pasted image 20240529160554.png",
     "_site/Excalidraw/Drawing 2024-05-29 16.03.11.excalidraw/index.html",
