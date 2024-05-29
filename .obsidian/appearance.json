@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [],
-  "interfaceFontFamily": "Apple Braille,210 OmniGothic"
+  "interfaceFontFamily": "",
+  "textFontFamily": "Hannotate TC",
+  "baseFontSize": 18
 }
