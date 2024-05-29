@@ -2,7 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "enabledCssSnippets": [],
-  "interfaceFontFamily": "Hannotate TC",
-  "textFontFamily": "Hannotate TC",
-  "baseFontSize": 16
+  "interfaceFontFamily": "Apple Braille",
+  "textFontFamily": "AppleMyungjo",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
