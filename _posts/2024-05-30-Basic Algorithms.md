@@ -19,7 +19,12 @@ author_profile: true
 **Definition:** Sorting algorithms are methods for arranging elements in a list or array in a particular order (ascending or descending).
 
 **Importance:**
-- Fundamental in computer s
+- Fundamental in computer science for organizing data.
+- Improve the efficiency of other algorithms (like search algorithms).
+- Often used as building blocks in more complex algorithms.
+
+## 2. Bubble Sort
+
 
 
 
