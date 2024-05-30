@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "efa02c80c9d2e4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md",
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-28-Questions_Basic of Data structure.md"
+                "file": "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md"
               }
             }
           },
@@ -189,12 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efa02c80c9d2e4fd",
+  "active": "82b50dd14a90b6f6",
   "lastOpenFiles": [
+    "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_posts/2024-05-20-Microcontroller(마이크로컨트롤러).md",
     "_sass/minimal-mistakes/_variables.scss~",
     "_posts/2024-05-20-Microprocessor-Basics.md",
-    "_posts/2024-05-28-Questions_Basic of Data structure.md",
     "_posts/2024-05-14-BLDC Control.md",
     "_posts/2024-05-17-Github Blog Tester.md",
     "_posts/2024-05-21-Aurduino with Rust.md",
