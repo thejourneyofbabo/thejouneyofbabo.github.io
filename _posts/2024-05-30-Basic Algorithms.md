@@ -68,6 +68,13 @@ fn insertion_sort(arr: &mut [i32]) {
 		arr[j] = key;
 	}
 }
+
+fn main() {
+	let mut arr = [5, 3, 8, 4, 2];
+	insertion_sort(&mut arr);
+	println!("Sorted array: {:?}", arr);
+
+}
 ```
 
 
